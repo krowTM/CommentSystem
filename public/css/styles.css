@@ -1,0 +1,40 @@
+body {
+	font-family: "Helvetica Neue",arial, sans-serif;
+}
+
+.reply-span {
+	visibility: hidden;
+}
+
+.new-reply {
+	display: none;
+	padding: 0 10px 15px;
+}
+
+.comment-div {
+	padding: 0 10px 15px;
+}
+
+.replies-div {
+	padding: 5px 10px 5px 15px;
+}
+
+.reply-div {
+	
+}
+
+.comment-div .name {
+	color: #288ce4;
+}
+
+.comment-div .email {
+	color: #706f85;
+}
+
+.comment-div .message {
+	color: #080902;
+}
+
+.comment-div .created {
+	color: #706f85;
+}
